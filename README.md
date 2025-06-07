@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathamesh Shinde
 
-🚀 Final-year Engineering Student | 🔬 AI & IoT Innovator | 💡 Problem Solver
+🚀 Third-year Engineering Student | 🔬 AI & IoT Innovator | 💡 Problem Solver
 
 Welcome to my GitHub! I build real-world tech solutions using AI, ML, IoT, and full-stack development. I work solo on most projects, from idea to deployment, and love contributing to smart systems for societal impact.
 
