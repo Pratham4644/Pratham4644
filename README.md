@@ -23,9 +23,10 @@ Welcome to my GitHub! I build real-world tech solutions using AI, ML, IoT, and f
   - ML model to classify facial expressions using OpenCV
 
 ## 🏅 Achievements
-- Selected for National-Level AI + IoT Project Representation
+- Selected for University-Level AI + IoT Project Representation
 - Built 4 full-scale projects independently
 - Recognized for leadership and problem-solving at ADCET
+- Member of GDGC in web development
 
 ---
 
