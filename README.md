@@ -6,7 +6,7 @@ Welcome to my GitHub! I build real-world tech solutions using AI, ML, IoT, and f
 
 ## 🔧 Core Skills
 - 💻 Languages: Python, Java, JavaScript
-- 🤖 Machine Learning: YOLOv8, OpenCV, scikit-learn
+- 🤖 Machine Learning: YOLOv8, OpenCV, scikit-learn, Pandas, Numpy, decision tree, Random forest 
 - 🌐 Web Development: HTML, CSS, JS, Flask, Django 
 - 📡 IoT Systems: Arduino, Sensor Automation
 - 🔗 APIs: Google Maps, Weather, TrafficLand
