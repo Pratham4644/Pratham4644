@@ -61,7 +61,8 @@ Emotion classification model trained on facial datasets
 Detects emotions such as happy, sad, angry, surprise, and neutral
 
 Applications in surveillance, user experience analysis, and mental health research
- -**AI Automation Chatbot
+
+🤖 AI Automation Chatbot
 
 An intelligent automation assistant that combines conversational AI with powerful web and desktop control capabilities.
 
