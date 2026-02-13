@@ -82,7 +82,7 @@ Tech Stack: Python, Flask, Streamlit, Selenium, BeautifulSoup, Requests, PyAutoG
 
 ## 🏅 Achievements
 - Selected for University-Level AI + IoT Project Representation
-- Built 4 full-scale projects independently
+- Built 8 full-scale projects independently
 - Recognized for leadership and problem-solving at ADCET
 - Member of GDGC in web development
 - Member E-yantra at ADCET Ashta
