@@ -78,7 +78,31 @@ Multiple interfaces: Flask web app, Streamlit UI, and command line version
 
 Cross-platform support for Windows, macOS, and Linux
 
-Tech Stack: Python, Flask, Streamlit, Selenium, BeautifulSoup, Requests, PyAutoGUI   
+Tech Stack: Python, Flask, Streamlit, Selenium, BeautifulSoup, Requests, PyAutoGUI  
+
+📚 Offline RAG-Based AI Assistant 
+
+A Retrieval-Augmented Generation system designed to work without constant internet dependency, focusing on domain-specific intelligent responses.
+
+Built an offline RAG pipeline combining local document retrieval with LLM-based response generation
+
+Document ingestion system supporting PDFs, text files, and structured data
+
+Embedding generation using lightweight models for efficient local storage
+
+Vector database implementation for semantic search and fast retrieval
+
+Context-aware answer generation by injecting retrieved knowledge into prompts
+
+Designed for low-resource environments where cloud APIs are costly or unavailable
+
+Use case: agriculture advisory system (Vasudha), providing farmers with reliable, localized insights
+
+Modular architecture allowing easy extension to other domains like education or legal docs
+
+Focus on privacy: all data processed locally without external API dependency
+
+Tech Stack: Python, LangChain (or custom pipeline), FAISS/ChromaDB, local LLM (or Gemini API fallback), document loaders, embedding models
 
 ## 🏅 Achievements
 - Selected for University-Level AI + IoT Project Representation
