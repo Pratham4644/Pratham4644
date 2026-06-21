@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · Computer Vision · RAG Systems · Edge AI**
 
-*Third-year CSE student at ADCET — building AI that works in the real world, not just on benchmarks.*
+* Final year CSE student at ADCET — building AI that works in the real world, not just on benchmarks.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/prathamesh-shinde-05942b288)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pratham4644)
