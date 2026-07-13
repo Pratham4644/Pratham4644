@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Prathamesh%20Shinde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20Systems%20%C2%B7%20Edge%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Pratham4644">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final-year+CSE+student+at+ADCET;Building+AI+that+works+offline%2C+not+just+on+benchmarks;Currently+lost+in+multimodal+RAG+for+agriculture;Preparing+for+MEXT+2027+%F0%9F%87%AF%F0%9F%87%B5&font=Fira+Code&center=true&width=680&height=40&color=8b5cf6&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-year+CSE+student+at+ADCET;Building+AI+that+works+offline%2C+not+just+on+benchmarks;Currently+lost+in+multimodal+RAG+for+agriculture;Learning+Japanese+%F0%9F%87%AF%F0%9F%87%B5+%E2%80%94+JLPT+N5+bound&font=Fira+Code&center=true&width=680&height=40&color=8b5cf6&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@ Currently obsessed with multimodal RAG for agricultural applications and the que
 long_term_direction: "multimodal AI for agriculture"
 philosophy: "understand every layer before abstracting it away"
 location: "Shahuwadi, Maharashtra, India · ADCET (2023-2027)"
-next_target: "MEXT 2027 — NLP + multimodal RAG research track 🇯🇵"
+currently_learning: "Japanese 🇯🇵 — grinding toward JLPT N5"
 ```
 
 <br/>
@@ -59,7 +59,7 @@ next_target: "MEXT 2027 — NLP + multimodal RAG research track 🇯🇵"
 ## 🚀 Projects
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:4c1d95&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6366f1,100:4c1d95&height=10&width=100%25" />
 </div>
 
 ### 🌿 Vasudha — Offline RAG Agriculture Chatbot
@@ -121,7 +121,7 @@ Handles **200+ daily scans** with real-time duplicate prevention, live meal coun
 ## 💼 Experience
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:4c1d95&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e1b4b,50:6366f1,100:4c1d95&height=10&width=100%25" />
 </div>
 
 **Machine Learning Intern — TechnoHacks Solutions Pvt. Ltd.** *(Jun 2025 – Jul 2025)*
@@ -222,6 +222,18 @@ Built three end-to-end ML models with GridSearchCV tuning and metric-driven eval
 <img src="https://raw.githubusercontent.com/Pratham4644/Pratham4644/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — set it up once on the repo and this animates automatically</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧊 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Pratham4644/Pratham4644/main/profile-3d-contrib/profile-season-animate.svg" width="90%"/>
+
+<sub>generated via the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> GitHub Action — isometric, animated, and genuinely 3D</sub>
 
 </div>
 
